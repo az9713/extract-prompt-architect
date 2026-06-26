@@ -1,0 +1,15 @@
+# Raw source material — not redistributed (paywalled/copyrighted; contains contact info)
+*.mhtml
+*.txt
+
+# Local backups / scratch
+.ignore/
+
+# Local Claude config — publish only the skill, not personal settings/commands/transcripts
+.claude/settings*.json
+.claude/commands/
+.claude/projects/
+
+# OS cruft
+.DS_Store
+Thumbs.db
