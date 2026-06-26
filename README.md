@@ -51,3 +51,7 @@ Running the skill on the source produced an 8-prompt set tuned to an *evaluate-t
 ## Using the skill
 
 It's installed in this project (`.claude/skills/`) and globally. Trigger it by handing Claude a dense source and asking for an extraction plan — e.g. *"give me the smallest set of prompts to pull the most out of this report,"* or invoke `/extraction-prompt-architect`. It returns a distillation report; ask it to **run** the set as a separate step.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE). Covers the original work here (the skill, the write-ups, and the prompt sets). The analyzed SemiAnalysis article is third-party, copyrighted, and **not** redistributed in this repo.
