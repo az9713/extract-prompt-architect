@@ -2,6 +2,10 @@
 
 *A development journey: how do you build the **smallest set of prompts** that pulls the **most strategic signal** out of a dense source? It ended in a reusable Claude Code skill — `extraction-prompt-architect` — which we then ran on the article that started it all.*
 
+> ### 📄 Source article
+> **SemiAnalysis — [*US Grid Constraints: Towards 40GW+ of Behind-The-Meter Datacenter by 2028?*](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)**
+> Every worked example in this repo extracts from this note. The article itself is paywalled/copyrighted and is **not** redistributed here — only the prompts and the derived analysis.
+
 ---
 
 ## The question
